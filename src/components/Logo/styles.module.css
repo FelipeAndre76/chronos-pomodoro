@@ -19,7 +19,7 @@
     transition: all 0.1s ease-in-out;
 }
 .LogoLink:hover {
-    filter: brightness(60%);
+    filter: brightness(80%);
     }
 .LogoLink svg{
     width: 6.4rem;
